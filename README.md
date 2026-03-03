@@ -25,4 +25,4 @@
 
 ### 📊 GitHub Stats
 
-![SongMojing's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongMojing&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SongMojing&theme=transparent)
