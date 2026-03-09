@@ -25,4 +25,4 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SongMojing&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SongMoJing&theme=dracula&locale=zh_Hans&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
