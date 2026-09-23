@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SongMojing (松蓦箐)
 
-### 向往自由的17岁青年
+### 向往自由的18岁青年
 > 渴望在代码的世界里寻找自由，在逻辑的荒原上种下理想。
 
 ---
@@ -16,10 +16,10 @@
 
 ### 个人领地 (Connect with Me)
 
-* **个人网站:** [www.song-mojing.top](http://www.song-mojing.top)
+* **个人网站:** [songmojing.dev](https://songmojing.dev)
 * **联系邮箱:**
     * 📩 [Song_Mojing@outlook.com](mailto:Song_Mojing@outlook.com)
-    * 📩 [Song.Mojing@gmail.com](mailto:Song.Mojing@gmail.com)
+    * 📩 [song.mojing@gmail.com](mailto:song.mojing@gmail.com)
 
 ---
 
